@@ -1,6 +1,8 @@
 # 简单的示例
 ---
 这里给出了一些使用 RealSense SDK Browser 测试所执行的一些示例。
+
+![](/res/realsense_sdk_browser.png)
  
 ## 3D Scan
 ----
